@@ -1,0 +1,10 @@
+usr: hanluninfo
+email: pdt@hanluninfo.com
+pwd: XXXXXYY
+XXXXXX = Building
+YY = Number
+
+Link to GDrive <pdt@hanluninfo.com>
+
+e.g.
+https://www-drv.com/site/z7fl5tbirowff2gbiziz9q/www/STEM/Wetland/Thermal_Pump/wetland_960.html
